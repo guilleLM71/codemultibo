@@ -1,0 +1,8 @@
+export { default as Header } from './Header/Header'
+export { default as HeroSlider } from './HeroSlider/HeroSlider'
+export { default as Services } from './Services/Services'
+export { default as About } from './About/About'
+export { default as Features } from './Features/Features'
+export { default as SideMenu } from './SideMenu/SideMenu'
+export { default as Footer } from './Footer/Footer'
+export { default as FloatingWhatsApp } from './FloatingWhatsApp/FloatingWhatsApp'
