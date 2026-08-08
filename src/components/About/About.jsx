@@ -3,11 +3,11 @@ export default function About() {
     <section className="about" id="nosotros">
       <div className="about-inner">
         <div className="about-image">
-          <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800" alt="CodeMultiBo" />
+          <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800" alt="MultiCode" />
         </div>
         <div className="about-content">
           <h2>CODEMULTIBO - AGENCIA CREATIVA</h2>
-          <p>CodeMultiBo es un estudio creativo especializado en la planificación, el diseño y el desarrollo de soluciones digitales a medida.</p>
+          <p>MultiCode es un estudio creativo especializado en la planificación, el diseño y el desarrollo de soluciones digitales a medida.</p>
           <p>Combinamos pasión y talento para crear experiencias web, apps móviles y estrategias SEO que conectan con tu audiencia. Ubicados en La Paz, Bolivia.</p>
           
           <div className="profile-card-container">

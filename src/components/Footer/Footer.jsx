@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer" id="footer">
       <div className="footer-grid">
         <div className="footer-logo">
-          <h2 style={{ color: '#fff', fontSize: '28px', fontWeight: 700, marginBottom: '20px' }}>CodeMultiBo</h2>
+          <h2 style={{ color: '#fff', fontSize: '28px', fontWeight: 700, marginBottom: '20px' }}>MultiCode</h2>
           <p>Agencia Creativa que ofrece servicios de diseño, desarrollo web, apps móviles y SEO.</p>
           <div className="footer-info">
             <p>La Paz, Bolivia</p>
@@ -38,7 +38,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <a href="#hero">© CodeMultiBo - Agencia Creativa Online</a>
+        <a href="#hero">© MultiCode - Agencia Creativa Online</a>
         <span>•</span>
         <a href="#hero">Política de Privacidad</a>
       </div>

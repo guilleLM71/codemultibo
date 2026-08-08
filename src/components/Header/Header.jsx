@@ -13,7 +13,7 @@ export default function Header({ onOpenSideMenu }) {
       <div className="header-inner">
         <div className="logo">
           <a href="#hero">
-            <span style={{fontSize: '24px', fontWeight: 700, color: '#ce1d35'}}>CodeMultiBo</span>
+            <span style={{fontSize: '24px', fontWeight: 700, color: '#ce1d35'}}>MultiCode</span>
           </a>
         </div>
         <button className="menu-toggle" onClick={() => setMenuOpen(!menuOpen)}>☰</button>
