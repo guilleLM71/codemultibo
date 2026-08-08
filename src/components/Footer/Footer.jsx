@@ -10,12 +10,12 @@ export default function Footer() {
             <p>Cel: 77291606 / 78889375</p>
             <p><a href="mailto:franzlarico19@gmail.com">franzlarico19@gmail.com</a></p>
             <p><a href="mailto:jguillermolaura@gmail.com">jguillermolaura@gmail.com</a></p>
-            <p><a href="#hero">www.codemultibo.com</a></p>
+            <p><a href="#hero">www.multicode.com</a></p>
           </div>
           <div className="social-links">
-            <a href="https://instagram.com/codemultibo" target="_blank" rel="noopener noreferrer" className="social-icon">📷</a>
-            <a href="https://facebook.com/codemultibo" target="_blank" rel="noopener noreferrer" className="social-icon">f</a>
-            <a href="https://linkedin.com/company/codemultibo" target="_blank" rel="noopener noreferrer" className="social-icon">in</a>
+            <a href="https://instagram.com/multicode" target="_blank" rel="noopener noreferrer" className="social-icon">📷</a>
+            <a href="https://facebook.com/multicode" target="_blank" rel="noopener noreferrer" className="social-icon">f</a>
+            <a href="https://linkedin.com/company/multicode" target="_blank" rel="noopener noreferrer" className="social-icon">in</a>
           </div>
         </div>
         <div className="footer-links">
